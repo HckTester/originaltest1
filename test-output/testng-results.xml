@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-04T13:52:11Z" name="Suite" finished-at="2024-01-04T13:57:02Z" duration-ms="291776">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T13:52:11Z" name="Test" finished-at="2024-01-04T13:57:02Z" duration-ms="291776">
+      <class name="org.testing.TestScripts.Final_TC1">
+        <test-method is-config="true" signature="browser_launch()[pri:0, instance:org.testing.TestScripts.Final_TC1@624ea235]" started-at="2024-01-04T05:52:11Z" name="browser_launch" finished-at="2024-01-04T05:52:33Z" duration-ms="22661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method is-config="true" signature="TestCase_TC1_Login()[pri:0, instance:org.testing.TestScripts.Final_TC1@624ea235]" started-at="2024-01-04T05:52:33Z" name="TestCase_TC1_Login" finished-at="2024-01-04T05:53:15Z" duration-ms="41925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_TC1_Login -->
+        <test-method signature="Trending_Click()[pri:1, instance:org.testing.TestScripts.Final_TC1@624ea235]" started-at="2024-01-04T05:53:15Z" name="Trending_Click" finished-at="2024-01-04T05:53:20Z" duration-ms="4969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Trending_Click -->
+        <test-method is-config="true" signature="TestCase_TC1_Logout()[pri:0, instance:org.testing.TestScripts.Final_TC1@624ea235]" started-at="2024-01-04T05:53:20Z" name="TestCase_TC1_Logout" finished-at="2024-01-04T05:53:29Z" duration-ms="8855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_TC1_Logout -->
+        <test-method is-config="true" signature="browser_close()[pri:0, instance:org.testing.TestScripts.Final_TC1@624ea235]" started-at="2024-01-04T05:53:29Z" name="browser_close" finished-at="2024-01-04T05:53:29Z" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.TestScripts.Final_TC1 -->
+      <class name="org.testing.TestScripts.Final_TC2">
+        <test-method is-config="true" signature="browser_launch()[pri:0, instance:org.testing.TestScripts.Final_TC2@16150369]" started-at="2024-01-04T05:53:29Z" name="browser_launch" finished-at="2024-01-04T05:53:44Z" duration-ms="14267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method is-config="true" signature="TestCase_TC1_Login()[pri:0, instance:org.testing.TestScripts.Final_TC2@16150369]" started-at="2024-01-04T05:53:44Z" name="TestCase_TC1_Login" finished-at="2024-01-04T05:54:23Z" duration-ms="39127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_TC1_Login -->
+        <test-method signature="Click_History()[pri:2, instance:org.testing.TestScripts.Final_TC2@16150369]" started-at="2024-01-04T05:54:23Z" name="Click_History" finished-at="2024-01-04T05:54:25Z" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_History -->
+        <test-method is-config="true" signature="TestCase_TC1_Logout()[pri:0, instance:org.testing.TestScripts.Final_TC2@16150369]" started-at="2024-01-04T05:54:25Z" name="TestCase_TC1_Logout" finished-at="2024-01-04T05:54:33Z" duration-ms="8214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_TC1_Logout -->
+        <test-method is-config="true" signature="browser_close()[pri:0, instance:org.testing.TestScripts.Final_TC2@16150369]" started-at="2024-01-04T05:54:33Z" name="browser_close" finished-at="2024-01-04T05:54:34Z" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.TestScripts.Final_TC2 -->
+      <class name="org.testing.TestScripts.Final_TC3">
+        <test-method is-config="true" signature="browser_launch()[pri:0, instance:org.testing.TestScripts.Final_TC3@6b09fb41]" started-at="2024-01-04T05:54:34Z" name="browser_launch" finished-at="2024-01-04T05:54:49Z" duration-ms="15392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method is-config="true" signature="TestCase_TC1_Login()[pri:0, instance:org.testing.TestScripts.Final_TC3@6b09fb41]" started-at="2024-01-04T05:54:49Z" name="TestCase_TC1_Login" finished-at="2024-01-04T05:55:29Z" duration-ms="39657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_TC1_Login -->
+        <test-method signature="Click_Subscription()[pri:3, instance:org.testing.TestScripts.Final_TC3@6b09fb41]" started-at="2024-01-04T05:55:29Z" name="Click_Subscription" finished-at="2024-01-04T05:55:31Z" duration-ms="2390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Subscription -->
+        <test-method is-config="true" signature="TestCase_TC1_Logout()[pri:0, instance:org.testing.TestScripts.Final_TC3@6b09fb41]" started-at="2024-01-04T05:55:31Z" name="TestCase_TC1_Logout" finished-at="2024-01-04T05:57:02Z" duration-ms="90740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_TC1_Logout -->
+        <test-method is-config="true" signature="browser_close()[pri:0, instance:org.testing.TestScripts.Final_TC3@6b09fb41]" started-at="2024-01-04T05:57:02Z" name="browser_close" finished-at="2024-01-04T05:57:02Z" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- org.testing.TestScripts.Final_TC3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
